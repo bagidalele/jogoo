@@ -1,0 +1,1 @@
+alert ( "Sua pontuação é:", x ,"pontos" );
